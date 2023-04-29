@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is merieme
+#### I am data scientist /data analyst/web developer
+![I am data scientist /data analyst/web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**meryemElkorchi/meryemElkorchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a recent graduate of a Master's program in Data Science and Big Data, I am eager to apply my skills and knowledge to a real-world setting. My internships in computer development have provided me with valuable experience in coding, software development, and project management, and I am now seeking a pre-hire internship or entry-level position to further develop my skills and gain practical experience.
 
-Here are some ideas to get you started:
+Skills: NODE JS/BOOTSTRAP / REACT / JS / HTML / CSS/ SQL/ PL/SQL /Deep Learning/ Machine learning/ image processing/ ETL-Datawarehouse/ Big Data/ Python/Java /C++/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
