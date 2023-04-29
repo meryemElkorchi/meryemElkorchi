@@ -6,7 +6,7 @@ As a recent graduate of a Master's program in Data Science and Big Data, I am ea
 
 Skills: NODE JS/BOOTSTRAP / REACT / JS / HTML / CSS/ SQL/ PL/SQL /Deep Learning/ Machine learning/ image processing/ ETL-Datawarehouse/ Big Data/ Python/Java /C++/
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
